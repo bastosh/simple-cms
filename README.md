@@ -14,7 +14,7 @@ Simple MVC + basic blog
 ## Download
 Download or clone the repository :
 ```
-git clone https://github.com/bastosh/simple-demo.git my-new-project
+git clone https://github.com/bastosh/simple-cms.git my-new-project
 ```
 Go into the folder and start a new Git repository :
 ```
