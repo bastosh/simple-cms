@@ -10,7 +10,7 @@ return [
     'options' => []
   ],
   'dev' => [
-    'dsn' => 'mysql:host=localhost;dbname=simple-demo',
+    'dsn' => 'mysql:host=localhost;dbname=simple',
     'login' => 'root',
     'password' => 'root',
     'options' => [
